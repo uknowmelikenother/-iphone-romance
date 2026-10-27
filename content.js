@@ -1,61 +1,61 @@
 window.CONTENT = {
   "assets": {
     "yeonjun1": [
-      "assets/yeonjun1-1.jpeg",
-      "assets/yeonjun1-2.jpeg",
-      "assets/yeonjun1-3.jpeg",
-      "assets/yeonjun1-4.jpeg"
+      "./yeonjun1-1.jpeg",
+      "./yeonjun1-2.jpeg",
+      "./yeonjun1-3.jpeg",
+      "./yeonjun1-4.jpeg"
     ],
     "yeonjun2": [
-      "assets/yeonjun2-1.jpeg",
-      "assets/yeonjun2-2.jpeg"
+      "./yeonjun2-1.jpeg",
+      "./yeonjun2-2.jpeg"
     ],
     "yeonjun3": [
-      "assets/yeonjun3-1.jpeg",
-      "assets/yeonjun3-2.jpeg",
-      "assets/yeonjun3-3.jpeg"
+      "./yeonjun3-1.jpeg",
+      "./yeonjun3-2.jpeg",
+      "./yeonjun3-3.jpeg"
     ],
     "yeonjun4": [
-      "assets/yeonjun4-1.jpeg",
-      "assets/yeonjun4-2.jpeg"
+      "./yeonjun4-1.jpeg",
+      "./yeonjun4-2.jpeg"
     ],
     "beomgyu1": [
-      "assets/beomgyu1-1.jpeg"
+      "./beomgyu1-1.jpeg"
     ],
     "beomgyu2": [
-      "assets/beomgyu2-1.jpeg"
+      "./beomgyu2-1.jpeg"
     ],
     "user1": [
-      "assets/user1-1.jpeg"
+      "./user1-1.jpeg"
     ],
     "user2": [
-      "assets/user2-1.jpeg"
+      "./user2-1.jpeg"
     ],
     "album": [
-      "assets/album-1.jpeg",
-      "assets/album-2.jpeg",
-      "assets/album-3.jpeg",
-      "assets/album-4.jpeg",
-      "assets/album-5.jpeg",
-      "assets/album-6.jpeg",
-      "assets/album-7.jpeg",
-      "assets/album-8.jpeg",
-      "assets/album-9.jpeg",
-      "assets/album-10.jpeg"
+      "./album-1.jpeg",
+      "./album-2.jpeg",
+      "./album-3.jpeg",
+      "./album-4.jpeg",
+      "./album-5.jpeg",
+      "./album-6.jpeg",
+      "./album-7.jpeg",
+      "./album-8.jpeg",
+      "./album-9.jpeg",
+      "./album-10.jpeg"
     ],
     "report": [
-      "assets/report-1.jpeg",
-      "assets/report-2.jpeg"
+      "./report-1.jpeg",
+      "./report-2.jpeg"
     ],
     "wallpaper": [
-      "assets/wallpaper-1.jpeg"
+      "./wallpaper-1.jpeg"
     ],
     "reels": [
-      "assets/reels-1.mp4",
-      "assets/reels-2.mp4"
+      "./reels-1.mp4",
+      "./reels-2.mp4"
     ],
     "facetime": [
-      "assets/facetime-1.mp4"
+      "./facetime-1.mp4"
     ]
   },
   "people": {
@@ -90,10 +90,10 @@ window.CONTENT = {
       "owner": "boy",
       "caption": "",
       "images": [
-        "assets/yeonjun1-1.jpeg",
-        "assets/yeonjun1-2.jpeg",
-        "assets/yeonjun1-3.jpeg",
-        "assets/yeonjun1-4.jpeg"
+        "./yeonjun1-1.jpeg",
+        "./yeonjun1-2.jpeg",
+        "./yeonjun1-3.jpeg",
+        "./yeonjun1-4.jpeg"
       ]
     },
     {
@@ -101,8 +101,8 @@ window.CONTENT = {
       "owner": "boy",
       "caption": "아기",
       "images": [
-        "assets/yeonjun2-1.jpeg",
-        "assets/yeonjun2-2.jpeg"
+        "./yeonjun2-1.jpeg",
+        "./yeonjun2-2.jpeg"
       ]
     },
     {
@@ -110,9 +110,9 @@ window.CONTENT = {
       "owner": "boy",
       "caption": "day off",
       "images": [
-        "assets/yeonjun3-1.jpeg",
-        "assets/yeonjun3-2.jpeg",
-        "assets/yeonjun3-3.jpeg"
+        "./yeonjun3-1.jpeg",
+        "./yeonjun3-2.jpeg",
+        "./yeonjun3-3.jpeg"
       ]
     },
     {
@@ -120,8 +120,8 @@ window.CONTENT = {
       "owner": "boy",
       "caption": "대박 맛있어…",
       "images": [
-        "assets/yeonjun4-1.jpeg",
-        "assets/yeonjun4-2.jpeg"
+        "./yeonjun4-1.jpeg",
+        "./yeonjun4-2.jpeg"
       ]
     },
     {
@@ -129,7 +129,7 @@ window.CONTENT = {
       "owner": "beom",
       "caption": "",
       "images": [
-        "assets/beomgyu1-1.jpeg"
+        "./beomgyu1-1.jpeg"
       ]
     },
     {
@@ -137,7 +137,7 @@ window.CONTENT = {
       "owner": "beom",
       "caption": "",
       "images": [
-        "assets/beomgyu2-1.jpeg"
+        "./beomgyu2-1.jpeg"
       ]
     },
     {
@@ -145,7 +145,7 @@ window.CONTENT = {
       "owner": "self",
       "caption": "",
       "images": [
-        "assets/user1-1.jpeg"
+        "./user1-1.jpeg"
       ]
     },
     {
@@ -153,7 +153,7 @@ window.CONTENT = {
       "owner": "self",
       "caption": "",
       "images": [
-        "assets/user2-1.jpeg"
+        "./user2-1.jpeg"
       ]
     }
   ],
@@ -344,7 +344,7 @@ window.CONTENT = {
         "text": "또 뭔데ㅋㅋ"
       },
       {
-        "image": "assets/report-1.jpeg",
+        "image": "./report-1.jpeg",
         "me": false
       },
       {
@@ -447,7 +447,7 @@ window.CONTENT = {
         "text": "일 처리 빨라졌네"
       },
       {
-        "image": "assets/report-2.jpeg",
+        "image": "./report-2.jpeg",
         "me": false
       },
       {
